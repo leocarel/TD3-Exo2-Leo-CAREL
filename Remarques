@@ -1,0 +1,10 @@
+Les trois classes sont bien les bonnes et la hierarchies est bien choisie
+
+L'attribut prix est bien placé dans la classe mère. 
+En revanche, les attributs poids et unité doivent appartenir pour l'un à la classe produit kilo et pour l'autre a la classe produit unité.
+
+Il manque des méthodes de calcul du prix
+Comme les attributs sont publics, il n'est pas nécessaire de mettre des methodes get.
+Les methodes get doivent retourner un parametre.
+
+L'implémentation ne correspond pas au diagramme de classe
